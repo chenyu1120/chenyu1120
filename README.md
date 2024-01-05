@@ -98,7 +98,7 @@ Next.js, Solidity, Node.js, Express.js, ASP.NET and web3.
 
 ## Contact me:
    Telegram : [@chenyu1120](https://t.me/chenyu1120)\
-   Discord :  chenyu1120#5756\
+   Discord :  chenyu1120\
    Email: chenyuwang1120@gmail.com
 
 <!--
