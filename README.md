@@ -19,7 +19,7 @@ Next.js, Solidity, Node.js, Express.js, ASP.NET and web3.
     <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
   </a>
   <a href="https://github.com/chenyu1120">
-    <img alt="Solidity" src="https://github.com/charles0831/charles0831/raw/main/icons/solidity.png" />
+    <img alt="Solidity" src="https://img.shields.io/badge/Solidity-323330?style=flat&logo=solidity&logoColor=white" />
   </a>
   <a href="https://github.com/chenyu1120">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
