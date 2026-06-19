@@ -4,49 +4,15 @@ Full Stack Web3 Developer with 6+ years of experience building blockchain produc
 
 Most of my work is focused on smart contracts, DeFi protocols, dApps, and backend systems. I enjoy taking products from idea to production and solving the technical challenges along the way.
 
-### Technologies I Work With
+## Tech Stack
 
-**Blockchain**
+Solidity • Ethereum • Solana • Rust • Hardhat • Foundry • Next.js • TypeScript • Node.js • PostgreSQL • AWS • Docker
 
-* Solidity
-* Ethereum
-* Solana
-* Rust
-* Bitcoin
+## Building
 
-**Frontend**
+Smart Contracts • DeFi • NFTs • Solana Programs • Web3 Infrastructure
 
-* Next.js
-* TypeScript
-* React
-
-**Backend**
-
-* Node.js
-* Express.js
-* ASP.NET
-* GraphQL
-
-**Database**
-
-* PostgreSQL
-* MongoDB
-
-**Infrastructure**
-
-* AWS
-* Docker
-
-### Selected Areas
-
-* Smart Contract Development
-* DeFi Applications
-* NFT Platforms
-* Solana Programs
-* Web3 Infrastructure
-* Full Stack Development
-
-### GitHub Stats
+## GitHub Stats
 
 <p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=chenyu1120&show_icons=true&hide_border=true" />
