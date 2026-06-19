@@ -1,6 +1,6 @@
 # Hi, I'm Chenyu 👋
 
-Full Stack Web3 Developer with 6+ years of experience building blockchain products and web applications.
+Full Stack Web3 Developer with 7+ years of experience building blockchain products and web applications.
 
 Most of my work is focused on smart contracts, DeFi protocols, dApps, and backend systems. I enjoy taking products from idea to production and solving the technical challenges along the way.
 
