@@ -95,11 +95,5 @@ Next.js, Solidity, Node.js, Express.js, ASP.NET and web3.
   </a>
 </div>
 
-
-## Contact me:
-   Telegram : [@metadev2025](https://t.me/metadev2025)\
-   Discord :  chenyu1120#5756\
-   Email: chenyuwang1120@gmail.com
-
 <!--
 **chenyu1120/chenyu1120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
