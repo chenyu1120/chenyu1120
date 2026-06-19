@@ -6,7 +6,7 @@ Most of my work is focused on smart contracts, DeFi protocols, dApps, and backen
 
 ## Tech Stack
 
-Solidity • Ethereum • Solana • Rust • Hardhat • Foundry • Next.js • TypeScript • Node.js • PostgreSQL • AWS • Docker
+Solidity • Ethereum • Solana • Rust • Hardhat • Foundry • Next.js • TypeScript • Node.js • Nestjs • PostgreSQL • MongoDB • AWS • Docker
 
 ## Building
 
